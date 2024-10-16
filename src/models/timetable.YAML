@@ -1,0 +1,87 @@
+startDay: '2025-01-07T20:00:00Z'
+endDay: '2025-06-28T14:00:00Z'
+
+terms:
+  - name: 'Lent Term'
+    start: '2025-01-07T20:00:00Z' # Lent Term start in UTC
+    end: '2025-03-28T13:00:00Z' # Lent Term end in UTC
+
+  - name: 'Summer Term'
+    start: '2025-04-22T20:00:00Z' # Summer Term start in UTC
+    end: '2025-06-28T14:00:00Z' # Summer Term end in UTC
+
+holidays:
+  - name: 'Easter Break'
+    start: '2025-03-28T13:00:00Z' # Start of Easter holiday in UTC
+    end: '2025-04-22T20:00:00Z' # End of Easter holiday in UTC
+
+  - name: 'Summer Break'
+    start: '2025-06-28T14:00:00Z' # Start of Summer holiday in UTC
+    end: '2025-09-01T08:00:00Z' # End of Summer holiday in UTC
+
+  - name: 'Exeat'
+    start: '2025-01-24T13:00:00Z' # Exeat start in UTC
+    end: '2025-01-26T21:00:00Z' # Exeat end in UTC
+
+  - name: 'Half-Term'
+    start: '2025-02-14T13:00:00Z' # Half-Term start in UTC
+    end: '2025-02-23T20:00:00Z' # Half-Term end in UTC
+
+  - name: 'Exeat'
+    start: '2025-05-09T13:00:00Z' # Summer Exeat start in UTC
+    end: '2025-05-11T21:00:00Z' # Summer Exeat end in UTC
+
+  - name: 'Half-Term'
+    start: '2025-05-23T13:00:00Z' # Summer Half-Term start in UTC
+    end: '2025-06-01T20:00:00Z' # Summer Half-Term end in UTC
+
+lessonTimes:
+  - day: 1
+    group: 'Y5'
+    start: '09:00'
+    end: '10:00'
+
+  - day: 1
+    group: 'Y5'
+    start: '10:15'
+    end: '11:15'
+
+  - day: 2
+    group: 'Y6'
+    start: '09:00'
+    end: '10:00'
+
+  - day: 2
+    group: 'Y6'
+    start: '10:15'
+    end: '11:15'
+
+  - day: 3
+    group: 'Y5'
+    start: '09:00'
+    end: '10:00'
+
+  - day: 3
+    group: 'Y5'
+    start: '10:15'
+    end: '11:15'
+
+  - day: 4
+    group: 'Y6'
+    start: '09:00'
+    end: '10:00'
+
+  - day: 4
+    group: 'Y6'
+    start: '10:15'
+    end: '11:15'
+
+  - day: 5
+    group: 'Y5'
+    start: '09:00'
+    end: '10:00'
+
+  - day: 5
+    group: 'Y6'
+    start: '10:15'
+    end: '11:15'
